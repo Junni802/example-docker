@@ -9,7 +9,7 @@ public class DockerExampleController {
 
   @GetMapping("/")
   public String exampleDocker() {
-    return "Hello World!!";
+    return "Hello World!";
   }
 
 }
